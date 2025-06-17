@@ -32,22 +32,22 @@ Over **500** unique directors were featured, reflecting a broad and diverse pool
 
 
 ## 🛠️ **Tools & Skills Used**
-**Power BI**
+* **Power BI**
 
-**DAX** (Data Analysis Expressions)
+* **DAX** (Data Analysis Expressions)
 
-**Data Cleaning & Transformation**
+* **Data Cleaning & Transformation**
 
-**Visual Analytics**
+* **Visual Analytics**
 
-**Storytelling with Data**
+* **Storytelling with Data**
 
 
 ---
 
 
 📎 **Screenshots**
-![IMDb Dashboard Screenshot][IMBD dashoboard screenshot](https://github.com/user-attachments/assets/cde81610-e37e-4a84-a148-906476d7eab1)
+[IMBD dashoboard screenshot](https://github.com/user-attachments/assets/cde81610-e37e-4a84-a148-906476d7eab1)
 
 
 ## 📁 **Dataset**
