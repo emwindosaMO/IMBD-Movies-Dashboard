@@ -2,8 +2,12 @@
 This project is a data visualization and analytics dashboard built using Power BI, based on a dataset of nearly 1,000 IMDb movies. It explores patterns in movie genres, ratings, box office gross, certifications, and director diversity to uncover key trends in the film industry.
 
 
-📊 **Dashboard Overview**
+---
+
+
+## 📊 **Dashboard Overview**
 The dashboard covers the following key insights:
+
 
 🎞**Most Common Genres**:
 **Drama** leads by volume, appearing most frequently across the dataset.
@@ -24,7 +28,10 @@ The years **2014** and **2004** had the highest number of movie releases in this
 Over **500** unique directors were featured, reflecting a broad and diverse pool of talent.
 
 
-🛠️ **Tools & Skills Used**
+---
+
+
+## 🛠️ **Tools & Skills Used**
 **Power BI**
 
 **DAX** (Data Analysis Expressions)
@@ -36,34 +43,44 @@ Over **500** unique directors were featured, reflecting a broad and diverse pool
 **Storytelling with Data**
 
 
+---
+
+
 📎 **Screenshots**
 ![IMDb Dashboard Screenshot][IMBD dashoboard screenshot](https://github.com/user-attachments/assets/cde81610-e37e-4a84-a148-906476d7eab1)
 
 
-📁 **Dataset**
+## 📁 **Dataset**
 The data was sourced from a public IMDb dataset and includes attributes such as:
 
-Title
+* Title
 
-Genre
+* Genre
 
-Rating
+* Rating
 
-Meta Score
+* Meta Score
 
-Certificate
+* Certificate
 
-Director
+* Director
 
-Gross Revenue
+* Gross Revenue
 
-Release Year
+* Release Year
 
 
-📌 **About This Project**
+
+---
+
+
+##📌 **About This Project**
 This project was created to sharpen my skills in data storytelling and dashboard design. 
 It is part of my data analytics portfolio and demonstrates my ability to extract insights and build engaging visuals using real-world data.
 
+
+
+---
 
 
 ## 📌 Let’s Connect
