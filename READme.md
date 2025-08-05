@@ -45,6 +45,7 @@ Over **500** unique directors were featured, reflecting a broad and diverse pool
 
 ---
 
+🖼️ **Screenshots**
 
 [IMBD_dashoboard_screenshot] <img width="1062" height="598" alt="IMBD dashoboard screenshot" src="https://github.com/user-attachments/assets/a2b2edde-85b1-4a47-9d8f-6f4eacd8166d" />
 
